@@ -2,6 +2,8 @@
 # MATKUL SISTEM BASIS DATA 
 # RECHA IRFAN TRIJIANTO
 # NIM 311910257
-# TI.19.B2
+# TI.19.B2 
+# Link Youtube https://youtu.be/3ajlRtjyqOc
+
 
 
